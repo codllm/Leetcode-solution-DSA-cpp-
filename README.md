@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0002-add-two-numbers) |
+| [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
