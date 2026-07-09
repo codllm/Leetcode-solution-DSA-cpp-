@@ -2,27 +2,27 @@ class TaskManager {
 public:
 
     unordered_map<int,int> task_priority;
-    unordered_map<int,int> task_User;
+    unordered_map<int,int> task_user;
 
-    set<pair<int,int>> st; // {priority, taskId}
+    set<pair<int,int>> priority_task;
 
 
     TaskManager(vector<vector<int>>& tasks) {
 
         for(int i=0;i<tasks.size();i++)
         {
-            int userId = tasks[i][0];
+            int userID = tasks[i][0];
             int taskId = tasks[i][1];
             int priority = tasks[i][2];
 
 
             task_priority[taskId] = priority;
 
-            task_User[taskId] = userId;
+            task_user[taskId] = userID;
 
 
-            st.insert({priority, taskId});
-        }
+            priority_task.insert({priority,taskId});
+        }  
     }
     
 
@@ -30,30 +30,26 @@ public:
 
         task_priority[taskId] = priority;
 
-        task_User[taskId] = userId;
+        task_user[taskId] = userId;
 
 
-        st.insert({priority, taskId});
+        priority_task.insert({priority,taskId}); 
     }
     
 
     void edit(int taskId, int newPriority) {
 
 
-        // get old priority
-        int oldPriority = task_priority[taskId];
+        int old_priority = task_priority[taskId];
 
 
-        // remove old data from set
-        st.erase({oldPriority, taskId});
+        priority_task.erase({old_priority,taskId});
 
 
-        // update map
         task_priority[taskId] = newPriority;
 
 
-        // insert new ranking
-        st.insert({newPriority, taskId});
+        priority_task.insert({newPriority,taskId});
     }
     
 
@@ -63,24 +59,23 @@ public:
         int priority = task_priority[taskId];
 
 
-        st.erase({priority, taskId});
+        priority_task.erase({priority,taskId});
 
 
         task_priority.erase(taskId);
 
-        task_User.erase(taskId);
+        task_user.erase(taskId);
     }
     
 
     int execTop() {
 
 
-        if(st.empty())
+        if(priority_task.empty())
             return -1;
 
 
-        // highest priority
-        auto it = st.rbegin();
+        auto it = priority_task.rbegin();
 
 
         int priority = it->first;
@@ -88,16 +83,15 @@ public:
         int taskId = it->second;
 
 
-        int userId = task_User[taskId];
+        int userId = task_user[taskId];
 
 
-        // remove executed task
-        st.erase({priority, taskId});
+        priority_task.erase({priority,taskId});
 
 
         task_priority.erase(taskId);
 
-        task_User.erase(taskId);
+        task_user.erase(taskId);
 
 
         return userId;
