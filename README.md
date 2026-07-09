@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
 | [3829-design-ride-sharing-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3829-design-ride-sharing-system) |
 ## Linked List
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
 | [3829-design-ride-sharing-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3829-design-ride-sharing-system) |
 ## Simulation
 |  |
@@ -78,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
