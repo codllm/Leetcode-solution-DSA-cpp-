@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
 ## Queue
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0016-3sum-closest) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
