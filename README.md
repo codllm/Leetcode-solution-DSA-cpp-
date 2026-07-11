@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
+| [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 ## Sliding Window
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
