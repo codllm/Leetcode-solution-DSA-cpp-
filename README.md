@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0016-3sum-closest) |
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0705-design-hashset) |
+| [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
 <!---LeetCode Topics End-->
