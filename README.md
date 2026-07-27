@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1668-maximum-repeating-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
