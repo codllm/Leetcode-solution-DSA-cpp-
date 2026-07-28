@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0016-3sum-closest) |
+| [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0213-house-robber-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0213-house-robber-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
 ## Memoization
