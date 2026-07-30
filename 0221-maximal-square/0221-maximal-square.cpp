@@ -9,6 +9,9 @@ class Solution {
 
         if(dp[i][j] != -1) return dp[i][j];
 
+        //--->right
+        //-->down
+        //-->dia check it
         int right = solve(matrix,i,j+1,dp);
         int down = solve(matrix,i+1,j,dp);
         int diag = solve(matrix,i+1,j+1,dp);
@@ -23,7 +26,7 @@ public:
         if(matrix.size() == 0) return 0;
         
         vector<vector<int>>dp(matrix.size(),vector<int>(matrix[0].size(),-1));
-
+        //top to bottom memoriza
         int maxsq = 0;
         for(int i=0;i<matrix.size();i++)
         {
