@@ -3,7 +3,7 @@ class Solution {
     int solve(string& word1,string& word2,int i,int j,vector<vector<int>>& dp)
     {
         if(j == word2.size()) return word1.size()-i;
-        //
+        //if charecter left from word1 or word2 then that much operation is needed for deleting right
         if(i == word1.size()) return word2.size()-j;
 
         //if both char is not same then i have 3 thing todo replace insert delete
