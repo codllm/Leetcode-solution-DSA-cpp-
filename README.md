@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Trie
 |  |
@@ -236,4 +237,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0300-longest-increasing-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
