@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0097-interleaving-string) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0198-house-robber) |
