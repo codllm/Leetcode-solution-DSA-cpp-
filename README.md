@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
+| [0343-integer-break](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0343-integer-break) |
 | [0518-coin-change-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1137-n-th-tribonacci-number) |
