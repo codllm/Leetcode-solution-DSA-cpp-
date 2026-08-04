@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0097-interleaving-string) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
+| [0696-count-binary-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0696-count-binary-substrings) |
 | [1396-design-underground-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1396-design-underground-system) |
 | [1668-maximum-repeating-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1668-maximum-repeating-substring) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
+| [0696-count-binary-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
