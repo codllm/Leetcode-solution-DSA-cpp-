@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0101-symmetric-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0322-coin-change) |
 ## Monotonic Stack
