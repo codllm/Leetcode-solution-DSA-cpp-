@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,11 +289,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0099-recover-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
