@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0045-jump-game-ii) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 ## Stack
 |  |
