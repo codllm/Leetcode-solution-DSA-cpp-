@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Shortest Path
 |  |
 | ------- |
