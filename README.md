@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Monotonic Stack
 |  |
@@ -350,12 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Shortest Path
