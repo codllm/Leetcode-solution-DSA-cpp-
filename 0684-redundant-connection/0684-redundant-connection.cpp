@@ -1,44 +1,37 @@
 class Solution {
-private:
-    bool isConnected(int u, int v,
-                     vector<bool>& visited,
-                     vector<vector<int>>& adj)
+    private:
+    bool iscycleFormed(int u,int v,vector<vector<int>>& adj,vector<bool>& visited)
     {
-        if(u == v) return true;
+        if(v==u) return true;
         visited[u] = true;
 
-        for(int nei : adj[u])
+        for(auto nei:adj[u])
         {
             if(!visited[nei])
             {
-                if(isConnected(nei, v, visited, adj))
-                    return true;
+                if(iscycleFormed(nei,v,adj,visited)) return true;      
             }
         }
-
         return false;
     }
-
 public:
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
 
-        int n = edges.size();
-        vector<vector<int>> adj(n + 1);
+        vector<vector<int>>adj(edges.size()+1);
 
-        for(auto& e : edges)
+        for(auto edge:edges)
         {
-            int u = e[0];
-            int v = e[1];
+            int u = edge[0];
+            int v = edge[1];
 
-            vector<bool> visited(n + 1, false);
+            vector<bool> visited(edges.size()+1, false);
 
-            if(isConnected(u, v, visited, adj))
-                return e;
+            if(iscycleFormed(u,v,adj,visited)) return edge;
 
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-
         return {};
+        
     }
 };
