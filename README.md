@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0091-decode-ways) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
 ## Counting
