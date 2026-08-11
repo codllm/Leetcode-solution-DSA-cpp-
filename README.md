@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Coloring
 |  |
 | ------- |
