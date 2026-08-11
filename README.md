@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0168-excel-sheet-column-title) |
+| [0345-reverse-vowels-of-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
