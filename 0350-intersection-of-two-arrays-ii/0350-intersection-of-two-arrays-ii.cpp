@@ -2,26 +2,26 @@ class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
 
+        sort(nums1.begin(),nums1.end());
+        sort(nums2.begin(),nums2.end());
 
-        //easiest you can solve this using the hashmap
-        //space complex 0(n);
-        //time complex 0(n)
-        unordered_map<int,int>mpp;
-
-        for(auto num:nums1)
-        {
-            mpp[num]++;
-        }
+        int i = 0;
+        int j = 0;
 
         vector<int>ans;
-        for(auto num:nums2)
+        while(i<nums1.size() && j<nums2.size())
         {
-            if(mpp.find(num)!=mpp.end())
+            if(nums1[i] == nums2[j])
             {
-                mpp[num]--;
-                if(mpp[num]==0) mpp.erase(num);
-                ans.push_back(num);
+                ans.push_back(nums1[i]);
+                i++;
+                j++;
             }
+            else if(nums1[i] < nums2[j])
+            {
+                i++;
+            }
+            else j++;
         }
         return ans;
         
