@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0168-excel-sheet-column-title) |
 | [0343-integer-break](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
