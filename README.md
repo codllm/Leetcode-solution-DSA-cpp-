@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1480-running-sum-of-1d-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1480-running-sum-of-1d-array) |
+| [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 ## Hash Table
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0045-jump-game-ii) |
+| [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 ## Stack
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0733-flood-fill) |
 | [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
+| [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 ## Memoization
 |  |
 | ------- |
