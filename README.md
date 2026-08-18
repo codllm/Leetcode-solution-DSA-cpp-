@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0120-triangle) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Combinatorics
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
