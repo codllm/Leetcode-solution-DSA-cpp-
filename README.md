@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0052-n-queens-ii) |
 ## Union-Find
 |  |
 | ------- |
