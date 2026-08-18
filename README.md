@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0120-triangle) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0055-jump-game) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 ## Stack
