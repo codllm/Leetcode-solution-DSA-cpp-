@@ -1,32 +1,36 @@
 class Solution {
-    private:
-    int solve(vector<vector<int>>& obstacleGrid,int i,int j,vector<vector<int>>& dp)
+private:
+    int solve(vector<vector<int>>& obstacleGrid,
+              vector<vector<int>>& dp,
+              int i, int j)
     {
-        int r = obstacleGrid.size();
-        int c = obstacleGrid[0].size();
+        int row = obstacleGrid.size();
+        int col = obstacleGrid[0].size();
 
-        //out of boundary region + obstacle in grid
-        if(i<0 || i>=r || j<0 || j>=c || obstacleGrid[i][j] == 1) return 0;
+        if(i < 0 || i >= row || j < 0 || j >= col ||
+           obstacleGrid[i][j] == 1)
+            return 0;
 
-        if(i == r-1 && j == c-1) return 1;//means one path found
+        if(i == row-1 && j == col-1)
+            return 1;
 
-        if(dp[i][j] != -1) return dp[i][j];
+        if(dp[i][j] != -1)
+            return dp[i][j];
 
-        int down = solve(obstacleGrid,i+1,j,dp);
-        int right = solve(obstacleGrid,i,j+1,dp);
+        int down = solve(obstacleGrid, dp, i+1, j);
+        int right = solve(obstacleGrid, dp, i, j+1);
 
         return dp[i][j] = down + right;
-       
     }
+
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
 
-        int r = obstacleGrid.size();
-        int c = obstacleGrid[0].size();
-        vector<vector<int>>dp(r,vector<int>(c,-1));
-        //here dynamic array declear for track memoriza top-bottom approuch
+        int row = obstacleGrid.size();
+        int col = obstacleGrid[0].size();
 
-        return solve(obstacleGrid,0,0,dp);
-        
+        vector<vector<int>> dp(row, vector<int>(col, -1));
+
+        return solve(obstacleGrid, dp, 0, 0);
     }
 };
