@@ -1,43 +1,40 @@
 class Solution {
     private:
-    int solve(vector<vector<int>>& grid,int i,int j,vector<vector<int>>& dp)
+    int solve(vector<vector<int>>& grid,vector<vector<int>>& dp,int row,int col,int i,int j)
     {
-        int r = grid.size();
-        int c = grid[0].size();
+        if(i<0 || i>=row || j<0 || j>=col) return INT_MAX;
 
-        //out of region of grid so return
-        if(i<0 || i>= r || j<0 || j>=c) return INT_MAX;
-
-        if(i == r-1 && j == c-1) return grid[i][j];
-        //reach the bottom right then returm with sum
+        if(i==row-1 && j==col-1)
+        {
+            return grid[i][j];
+        }
 
         if(dp[i][j] != -1) return dp[i][j];
 
-        int down = solve(grid,i+1,j,dp);
-        int right =  solve(grid,i,j+1,dp);
-        
         int ans = INT_MAX;
+        int down = solve(grid,dp,row,col,i+1,j);
+
         if(down != INT_MAX)
         {
-            ans = min(ans, down + grid[i][j]);
+            ans = min(ans,down);
         }
+        int right = solve(grid,dp,row,col,i,j+1);
+
         if(right != INT_MAX)
         {
-            ans = min(ans, right + grid[i][j]);
+            ans = min(ans,right);
         }
 
-        return dp[i][j] = ans;
+        return dp[i][j] = ans + grid[i][j];
     }
 public:
     int minPathSum(vector<vector<int>>& grid) {
 
-        int r = grid.size();
-        int c = grid[0].size();
+        int row = grid.size();
+        int col = grid[0].size();
 
-        vector<vector<int>>dp(r,vector<int>(c,-1));
-        //dp memori that store min from the i and j
-
-        return solve(grid,0,0,dp);
+        vector<vector<int>>dp(row,vector<int>(col,-1));
+        return solve(grid,dp,row,col,0,0);
         
     }
 };
