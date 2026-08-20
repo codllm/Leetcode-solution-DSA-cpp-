@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
 | ------- |
