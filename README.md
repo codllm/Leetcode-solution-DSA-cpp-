@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
+| [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0696-count-binary-substrings) |
 | [1396-design-underground-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1396-design-underground-system) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 | [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0733-flood-fill) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
