@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0168-excel-sheet-column-title) |
 | [0343-integer-break](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -542,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0563-binary-tree-tilt) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
