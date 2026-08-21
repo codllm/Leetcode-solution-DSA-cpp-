@@ -1,37 +1,26 @@
 class Solution {
-public:
-    bool isPalindrome(string &str) {
-
-        int left = 0;
-        int right = str.size() - 1;
-
-        while (left < right) {
-
-            if (str[left] != str[right])
-                return false;
-
-            left++;
-            right--;
+    private:
+    int expand_around_center(string s,int left,int right)
+    {
+        int count = 0;
+        while(left>=0 && right<s.size() && s[left]==s[right] )
+        {
+            count++;
+            left--;
+            right++;
         }
-
-        return true;
+        return count;     
     }
-
+public:
     int countSubstrings(string s) {
 
         int ans = 0;
-
-        for (int i = 0; i < s.size(); i++) {
-
-            for (int j = i; j < s.size(); j++) {
-
-                string sub = s.substr(i, j - i + 1);
-
-                if (isPalindrome(sub))
-                    ans++;
-            }
+        for(int i=0;i<s.size();i++)
+        {
+            ans+=expand_around_center(s,i,i);
+            ans+=expand_around_center(s,i,i+1);
         }
-
         return ans;
+        
     }
 };
