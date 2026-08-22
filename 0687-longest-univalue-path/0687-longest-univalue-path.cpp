@@ -24,11 +24,14 @@ class Solution {
         if (root == nullptr)
             return;
 
+            //for each node call its right n left with the root value
+            //find its maxLen
         int leftLen = pathLen(root->left, root->val);
         int rightLen = pathLen(root->right, root->val);
 
         maxLen = max(maxLen, leftLen + rightLen);
 
+        //in the original tree move forward for its other node leftside and rightside
         solve(root->left);
         solve(root->right);
     }
