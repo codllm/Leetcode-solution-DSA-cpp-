@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0695-max-area-of-island) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0733-flood-fill) |
