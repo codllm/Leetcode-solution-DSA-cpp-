@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0733-flood-fill) |
 | [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0845-longest-mountain-in-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0845-longest-mountain-in-array) |
+| [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0733-flood-fill) |
 | [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
+| [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 ## Memoization
@@ -577,4 +580,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
