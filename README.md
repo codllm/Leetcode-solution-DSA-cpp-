@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0687-longest-univalue-path) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0841-keys-and-rooms) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0687-longest-univalue-path) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
