@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
 | [0705-design-hashset](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0705-design-hashset) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1396-design-underground-system) |
 | [1797-design-authentication-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1797-design-authentication-manager) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0687-longest-univalue-path) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Depth-First Search
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0687-longest-univalue-path) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
