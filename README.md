@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
 ## Enumeration
 |  |
 | ------- |
@@ -628,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
