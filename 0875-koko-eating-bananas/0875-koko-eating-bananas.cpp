@@ -4,9 +4,11 @@ private:
     {
         long long ans = 0; 
         
-        for(int i = 0; i < piles.size(); i++)
+        for(auto x:piles)
         {
-            ans += (piles[i] + m - 1) / m; 
+            ans+= x/m;
+
+            if(x%m!=0) ans++;
         }
         
         return ans;
