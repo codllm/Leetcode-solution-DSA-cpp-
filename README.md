@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0733-flood-fill) |
 | [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0845-longest-mountain-in-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0845-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0875-koko-eating-bananas) |
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1901-find-a-peak-element-ii) |
 ## Tree
