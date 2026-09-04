@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0078-subsets) |
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
