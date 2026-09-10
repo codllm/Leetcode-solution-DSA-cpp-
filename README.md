@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
