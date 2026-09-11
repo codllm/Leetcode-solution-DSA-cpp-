@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3903-smallest-stable-index-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1797-design-authentication-manager) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
+| [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3829-design-ride-sharing-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3829-design-ride-sharing-system) |
 ## Linked List
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0203-remove-linked-list-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0845-longest-mountain-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## DP on Trees
 |  |
