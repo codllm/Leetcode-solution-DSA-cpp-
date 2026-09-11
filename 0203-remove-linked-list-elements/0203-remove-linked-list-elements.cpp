@@ -12,30 +12,31 @@ class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
 
-        while(head!=nullptr && head->val == val) head = head->next;
+        if(head==nullptr) return head;
 
-        if(head ==nullptr) return nullptr;
-        ListNode* dummyhead = new ListNode(-1);//new dummy-list created
-        ListNode* dummy = dummyhead;
-        
+        while(head && head->val == val) head = head->next;
+        //first node head ki value jbtk same hai tbtk skip kro qki while run hone k liye first node(head) should not be head to head
+        //otherwise nullptr(prev) wo join ho jayega
 
-        dummy->next = head;//new head of list created
-        dummy = dummy->next;
-        head = head->next;
+        if(!head) return nullptr;
 
-        while( head!= nullptr)
+        ListNode* prev = nullptr;
+        ListNode* curnt = head;
+
+        while(curnt)
         {
-            if(head->val != val)
+            if(curnt->val == val)
             {
-                dummy->next = head;
-                dummy = dummy->next;
+                prev->next = curnt->next;
+                curnt = curnt->next;
             }
-            head = head->next;
+            else
+            {
+                prev = curnt;
+                curnt = curnt->next;
+            }
         }
-        //end of list
-        dummy->next = nullptr;
-
-        return dummyhead->next;
+        return head;
         
     }
 };
