@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1137-n-th-tribonacci-number) |
 | [3871-count-commas-in-range-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -678,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
