@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1396-design-underground-system) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1797-design-authentication-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1797-design-authentication-manager) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0076-minimum-window-substring) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Design
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1901-find-a-peak-element-ii) |
 ## Tree
 |  |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3903-smallest-stable-index-i) |
 ## Pigeonhole Principle
 |  |
