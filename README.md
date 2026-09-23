@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0337-house-robber-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0337-house-robber-iii) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0337-house-robber-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0337-house-robber-iii) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
