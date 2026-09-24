@@ -11,29 +11,28 @@
  */
 class Solution {
     private:
-    void allValidpath(TreeNode* root,int targetSum,vector<vector<int>>& result,vector<int>& temp)
+    void solve(TreeNode* root,int targetSum,vector<int>& temp,vector<vector<int>>& result)
     {
-        if(!root) return;
-
+        if(root==nullptr) return;
         temp.push_back(root->val);
-
-        if(root->left==nullptr && root->right==nullptr && root->val==targetSum)
+        if(!root->left && !root->right && root->val==targetSum)//at leaf node
         {
             result.push_back(temp);
         }
 
-        allValidpath(root->left,targetSum-root->val,result,temp);
-        allValidpath(root->right,targetSum-root->val,result,temp);
-        temp.pop_back();//pop last push element;
-        // If we pop_back() in the middle, the left subtree is correct, but before going to the right subtree we remove the root from the path. The right subtree also needs the root in its path, so the answer becomes wrong.
+        
+        solve(root->left,targetSum-root->val,temp,result);
+        solve(root->right,targetSum-root->val,temp,result);
+
+        temp.pop_back();
+        //beach mein pop isliye nhi kr rhe ha qki root node done k sath rhega with left child and right child 
     }
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
 
-        vector<vector<int>>result;
         vector<int>temp;
-
-        allValidpath(root,targetSum,result,temp);
+        vector<vector<int>>result;
+        solve(root,targetSum,temp,result);
         return result;
         
     }
