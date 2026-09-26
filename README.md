@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4026-maximum-gap-between-stations](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4026-maximum-gap-between-stations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0876-middle-of-the-linked-list) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [4026-maximum-gap-between-stations](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4026-maximum-gap-between-stations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4026-maximum-gap-between-stations](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4026-maximum-gap-between-stations) |
 ## Stack
 |  |
 | ------- |
