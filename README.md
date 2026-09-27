@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
