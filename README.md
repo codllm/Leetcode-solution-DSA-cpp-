@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0845-longest-mountain-in-array) |
 | [1137-n-th-tribonacci-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1668-maximum-repeating-substring) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Queue
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0032-longest-valid-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
 |  |
 | ------- |
