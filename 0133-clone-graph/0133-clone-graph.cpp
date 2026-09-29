@@ -1,34 +1,47 @@
-class Solution {
-private:
-    Node* dfs(Node* node, map<Node*, Node*>& mpp)
-    {
-        //node alredy found and that is part of mpp and it is connted with the someother node in graph is alredy created not connted--add this linked to it
-        if (mpp.find(node) != mpp.end())
-            return mpp[node];
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    vector<Node*> neighbors;
+    Node() {
+        val = 0;
+        neighbors = vector<Node*>();
+    }
+    Node(int _val) {
+        val = _val;
+        neighbors = vector<Node*>();
+    }
+    Node(int _val, vector<Node*> _neighbors) {
+        val = _val;
+        neighbors = _neighbors;
+    }
+};
+*/
 
+class Solution {
+    private:
+    Node* dfs(Node* node,unordered_map<Node*,Node*>& mpp)
+    {
+        //node mil gya toh return krdo
+        if(mpp.find(node)!=mpp.end()) return mpp[node];
+
+        //agar nhi mila toh
         Node* newnode = new Node(node->val);
-        //if that node not created and not part of the map cfeated that node and store into the map
 
         mpp[node] = newnode;
 
-        for (auto v : node->neighbors)
+        for(auto v:node->neighbors)
         {
-            //gives new conntection with the related node(newnode) in the graph of clone
-            newnode->neighbors.push_back(dfs(v, mpp));
-            //it also handel the bidirection connection bw the nodes
+            newnode->neighbors.push_back(dfs(v,mpp));     
         }
-
         return newnode;
     }
-
 public:
     Node* cloneGraph(Node* node) {
-
-        if (node == nullptr)
-            return nullptr;
-
-        map<Node*, Node*> mpp;
-
-        return dfs(node, mpp);
+        if(node==nullptr) return nullptr;
+        unordered_map<Node*,Node*>mpp;
+        return dfs(node,mpp);
+        
     }
 };
