@@ -1,51 +1,60 @@
 class Solution {
-public:
-    int m, n;
+    private:
+    void dfs(vector<vector<char>>& board,int i,int j,int r,int c)
+    {
+        if(i<0 || i>=r || j<0 || j>=c || board[i][j]=='X' || board[i][j]=='#') return;
 
-    void dfs(vector<vector<char>>& board, int r, int c) {
-        if (r < 0 || c < 0 || r >= m || c >= n || board[r][c] != 'O')
-            return;
+        board[i][j] = '#';
 
-        board[r][c] = '#'; //mark as safe
-
-        dfs(board, r + 1, c);
-        dfs(board, r - 1, c);
-        dfs(board, r, c + 1);
-        dfs(board, r, c - 1);
+        dfs(board,i+1,j,r,c);
+        dfs(board,i-1,j,r,c);
+        dfs(board,i,j+1,r,c);
+        dfs(board,i,j-1,r,c);
     }
-
+public:
     void solve(vector<vector<char>>& board) {
-        if (board.empty()) return;
 
-        m = board.size();
-        n = board[0].size();
 
-        // First and last column
-        for (int i = 0; i < m; i++) {
-            if (board[i][0] == 'O')
-                dfs(board, i, 0);
+        if(board.empty() || board[0].empty()) return;
+        int r = board.size();
+        int c = board[0].size();
 
-            if (board[i][n - 1] == 'O')
-                dfs(board, i, n - 1);
-        }
+        //first row n last row
+        for(int i=0;i<board[0].size();i++)
+        {
+            if(board[0][i]=='O')
+            {
+                dfs(board,0,i,r,c);
+            }
 
-        // First and last row
-        for (int j = 0; j < n; j++) {
-            if (board[0][j] == 'O')
-                dfs(board, 0, j);
-
-            if (board[m - 1][j] == 'O')
-                dfs(board, m - 1, j);
-        }
-
-        // Flip surrounded O's and restore safe O's
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O')
-                    board[i][j] = 'X';
-                else if (board[i][j] == '#')
-                    board[i][j] = 'O';
+            if(board[r-1][i]=='O')
+            {
+                dfs(board,r-1,i,r,c);
             }
         }
+
+        for(int i=0;i<board.size();i++)
+        {
+            if(board[i][0]=='O') dfs(board,i,0,r,c);
+
+            if(board[i][c-1]=='O') dfs(board,i,c-1,r,c);
+        }
+
+        for(int i=0;i<r;i++)
+        {
+            for(int j=0;j<c;j++)
+            {
+                if(board[i][j]=='O')
+                {
+                    board[i][j] = 'X';
+                }
+                if(board[i][j]=='#')
+                {
+                    board[i][j]='O';
+                }
+            }
+        }
+
+        
     }
 };
