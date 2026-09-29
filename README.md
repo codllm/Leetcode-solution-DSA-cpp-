@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0343-integer-break) |
+| [0397-integer-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0397-integer-replacement) |
 | [0518-coin-change-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0647-palindromic-substrings) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0397-integer-replacement) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0763-partition-labels) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
 |  |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0078-subsets) |
+| [0397-integer-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0397-integer-replacement) |
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
