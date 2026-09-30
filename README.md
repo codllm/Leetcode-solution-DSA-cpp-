@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0695-max-area-of-island) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0397-integer-replacement) |
+| [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0781-rabbits-in-forest) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Combinatorics
@@ -795,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0577-employee-bonus) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
