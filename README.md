@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3903-smallest-stable-index-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3829-design-ride-sharing-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3829-design-ride-sharing-system) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Linked List
 |  |
 | ------- |
@@ -272,11 +274,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -362,11 +366,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0743-network-delay-time) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
 | ------- |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Data Stream
 |  |
 | ------- |
@@ -434,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Combinatorics
 |  |
 | ------- |
