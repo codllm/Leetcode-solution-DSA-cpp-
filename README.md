@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0234-palindrome-linked-list) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0146-lru-cache) |
 | [1797-design-authentication-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1797-design-authentication-manager) |
 ## Greedy
 |  |
