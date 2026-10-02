@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0234-palindrome-linked-list) |
