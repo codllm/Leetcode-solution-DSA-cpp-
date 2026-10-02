@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0508-most-frequent-subtree-sum) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0337-house-robber-iii) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0508-most-frequent-subtree-sum) |
