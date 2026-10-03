@@ -1,123 +1,155 @@
 class LRUCache {
 public:
 
-    class Node {
+    class node {
     public:
         int key;
         int val;
-        Node* next;
-        Node* prev;
+        node* next;
+        node* prev;
 
-        Node(int key, int val) {
+        node(int key, int val) {
             this->key = key;
             this->val = val;
-            next = nullptr;
-            prev = nullptr;
+            next = NULL;
+            prev = NULL;
         }
     };
 
-    Node* head;
-    Node* tail;
+    node* head;
+    node* tail;
+
+    unordered_map<int, node*> mpp;
 
     int capacity;
 
-    unordered_map<int, Node*> mpp;
+    // Add node at the tail
+    node* maintainTail(int key, int val) {
+
+        node* newnode = new node(key, val);
+
+        // Empty list
+        if(head == NULL) {
+            head = newnode;
+            tail = newnode;
+            return newnode;
+        }
+
+        // Add at tail
+        tail->next = newnode;
+        newnode->prev = tail;
+        tail = newnode;
+
+        return newnode;
+    }
+
+    // Delete any node from DLL
+    void deleteNode(node* getnode) {
+
+        // Only one node
+        if(head == tail) {
+            head = NULL;
+            tail = NULL;
+            return;
+        }
+
+        // Delete head
+        if(getnode == head) {
+            head = head->next;
+            head->prev = NULL;
+            return;
+        }
+
+        // Delete tail
+        if(getnode == tail) {
+            tail = tail->prev;
+            tail->next = NULL;
+            return;
+        }
+
+        // Delete middle node
+        getnode->prev->next = getnode->next;
+        getnode->next->prev = getnode->prev;
+    }
+
+    // Remove least recently used node
+    void removeLeastUsed() {
+
+        node* temp = head;
+
+        // Remove from hashmap
+        mpp.erase(temp->key);
+
+        // Remove from DLL
+        deleteNode(temp);
+
+        delete temp;
+    }
 
     LRUCache(int capacity) {
+
         this->capacity = capacity;
 
-        head = nullptr;
-        tail = nullptr;
-    }
-
-    // Add node at the end = most recently used
-    void addNode(Node* newNode) {
-
-        if (head == nullptr) {
-            head = newNode;
-            tail = newNode;
-            return;
-        }
-
-        tail->next = newNode;
-        newNode->prev = tail;
-        tail = newNode;
-    }
-
-    // Remove a node from linked list
-    void deleteNode(Node* cur) {
-
-        if (cur == head) {
-            head = cur->next;
-
-            if (head != nullptr)
-                head->prev = nullptr;
-        }
-        else if (cur == tail) {
-            tail = cur->prev;
-
-            if (tail != nullptr)
-                tail->next = nullptr;
-        }
-        else {
-            cur->prev->next = cur->next;
-            cur->next->prev = cur->prev;
-        }
-    }
-
-    // Move node to most recently used position
-    void moveToTail(Node* cur) {
-
-        if (cur == tail)
-            return;
-
-        deleteNode(cur);
-        addNode(cur);
+        head = NULL;
+        tail = NULL;
     }
 
     int get(int key) {
 
-        if (!mpp.count(key))
+        // Key doesn't exist
+        if(!mpp.count(key))
             return -1;
 
-        Node* cur = mpp[key];
+        node* getnode = mpp[key];
 
-        // Accessing it makes it recently used
-        moveToTail(cur);
+        int value = getnode->val;
 
-        return cur->val;
+        // Remove from current position
+        deleteNode(getnode);
+
+        // Put at tail = recently used
+        node* newnode = maintainTail(key, value);
+
+        // Update hashmap
+        mpp[key] = newnode;
+
+        // Delete old node
+        delete getnode;
+
+        return value;
     }
 
     void put(int key, int value) {
 
         // Key already exists
-        if (mpp.count(key)) {
+        if(mpp.count(key)) {
 
-            Node* cur = mpp[key];
+            node* getnode = mpp[key];
 
-            cur->val = value;
+            // Remove old node
+            deleteNode(getnode);
 
-            // It becomes recently used
-            moveToTail(cur);
+            // Add updated node at tail
+            node* newnode = maintainTail(key, value);
+
+            // Update hashmap
+            mpp[key] = newnode;
+
+            // Delete old node
+            delete getnode;
 
             return;
         }
 
-        // Create new node
-        Node* newNode = new Node(key, value);
-
-        addNode(newNode);
-        mpp[key] = newNode;
-
-        if (mpp.size() > capacity) {
-
-            Node* leastRecentlyUsed = head;
-
-            mpp.erase(leastRecentlyUsed->key);
-
-            deleteNode(leastRecentlyUsed);
-
-            delete leastRecentlyUsed;
+        // Cache is full
+        if(mpp.size() == capacity) {
+            removeLeastUsed();
         }
+
+        // Add new node at tail
+        node* newnode = maintainTail(key, value);
+
+        // Add to hashmap
+        mpp[key] = newnode;
     }
 };
