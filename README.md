@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0387-first-unique-character-in-a-string) |
 | [0457-circular-array-loop](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0457-circular-array-loop) |
 | [0508-most-frequent-subtree-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0541-reverse-string-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0641-design-circular-deque) |
 | [3829-design-ride-sharing-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3829-design-ride-sharing-system) |
 ## Heap (Priority Queue)
