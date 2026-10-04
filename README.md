@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Design
 |  |
 | ------- |
