@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0763-partition-labels) |
 | [1396-design-underground-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1396-design-underground-system) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0845-longest-mountain-in-array) |
 | [1137-n-th-tribonacci-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1668-maximum-repeating-substring) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0781-rabbits-in-forest) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Trie
 |  |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
 |  |
