@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0541-reverse-string-ii) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0316-remove-duplicate-letters) |
 | [0388-longest-absolute-file-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
