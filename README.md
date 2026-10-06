@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0118-pascals-triangle) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0143-reorder-list) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0221-maximal-square) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Z Algorithm
