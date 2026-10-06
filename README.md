@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0583-delete-operation-for-two-strings) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0316-remove-duplicate-letters) |
 | [0388-longest-absolute-file-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
