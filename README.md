@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1396-design-underground-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1396-design-underground-system) |
 | [1668-maximum-repeating-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1668-maximum-repeating-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0781-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Trie
 |  |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Z Algorithm
 |  |
 | ------- |
