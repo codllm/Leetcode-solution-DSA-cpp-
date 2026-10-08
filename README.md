@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1396-design-underground-system) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
