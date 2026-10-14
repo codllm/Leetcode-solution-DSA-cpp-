@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1396-design-underground-system) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1668-maximum-repeating-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1668-maximum-repeating-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0781-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1472-design-browser-history) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
 |  |
