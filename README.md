@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1797-design-authentication-manager) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -916,4 +918,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
