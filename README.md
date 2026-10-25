@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
+| [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
