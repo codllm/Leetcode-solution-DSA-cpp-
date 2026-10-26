@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3903-smallest-stable-index-i) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
