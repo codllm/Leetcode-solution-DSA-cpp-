@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0733-flood-fill) |
 | [0781-rabbits-in-forest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0781-rabbits-in-forest) |
 | [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0875-koko-eating-bananas) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0781-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0733-flood-fill) |
 | [0794-valid-tic-tac-toe-state](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0794-valid-tic-tac-toe-state) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
