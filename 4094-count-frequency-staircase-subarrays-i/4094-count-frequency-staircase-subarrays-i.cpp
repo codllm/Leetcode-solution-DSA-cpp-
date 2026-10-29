@@ -1,42 +1,45 @@
-
 class Solution {
 public:
     int countStaircase(vector<int>& nums) {
-        int n = nums.size();
+
         int count = 0;
-
-        for (int i = 0; i < n; i++) {
-            unordered_map<int, int> mpp;
-            unordered_map<int, int> orderMap;
-
+        for(int i=0;i<nums.size();i++)
+        {
             int order = 1;
+            unordered_map<int,int>mpp;//num-->freq
+            unordered_map<int,int>ordermap; //num-->order
             int mismatch = 0;
-
-            for (int j = i; j < n; j++) {
+            for(int j=i;j<nums.size();j++)
+            {
                 int num = nums[j];
 
-                if (mpp[num] > 0) {
-                    int ord = orderMap[num];
+                if(mpp[num]>0)
+                {
+                    //alredy seen element
+                    int ord = ordermap[num];
 
-                    // Remove the old mismatch status
-                    if (mpp[num] != ord)
+                    if(mpp[num]!=ord)
+                    {
                         mismatch--;
-                } else {
-                    // Assign order to a new number
-                    orderMap[num] = order++;
+                    }
                 }
+                else
+                {
+                    ordermap[num] = order; //num-->order
+                    order++;
 
-                mpp[num]++;
+                }
+                mpp[num]++; //map mpp ko increse freq  
 
-                // Add the new mismatch status
-                if (mpp[num] != orderMap[num])
-                    mismatch++;
+                //freq same hona chahiye order k according
 
-                if (mismatch == 0)
-                    count++;
+                if(mpp[num]!=ordermap[num])
+                mismatch++;
+
+                if(mismatch==0)
+                count++;
             }
         }
-
         return count;
     }
 };
