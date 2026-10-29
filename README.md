@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3903-smallest-stable-index-i) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4026-maximum-gap-between-stations) |
 ## Stack
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2070-most-beautiful-item-for-each-query) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Combinatorics
 |  |
