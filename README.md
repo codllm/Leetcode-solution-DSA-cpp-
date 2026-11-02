@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0523-continuous-subarray-sum) |
 | [0781-rabbits-in-forest](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0781-rabbits-in-forest) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
