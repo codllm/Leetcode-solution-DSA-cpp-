@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1137-n-th-tribonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3876-construct-uniform-parity-array-ii) |
