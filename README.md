@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2241-design-an-atm-machine](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2241-design-an-atm-machine) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [2747-count-zero-request-servers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1797-design-authentication-manager) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2353-design-a-food-rating-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2353-design-a-food-rating-system) |
+| [2747-count-zero-request-servers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3408-design-task-manager](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3408-design-task-manager) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Design
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2747-count-zero-request-servers](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2747-count-zero-request-servers) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Combinatorics
