@@ -1,66 +1,62 @@
 class Solution {
 public:
-    typedef pair<int, int> p; 
+    typedef pair<int, int> p;
     // {weight, index}
 
     typedef tuple<long long, int, int> t;
-    // {free_time, weight, index}
+    // {finishTime, weight, index}
 
     vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
 
-        priority_queue<p, vector<p>, greater<p>> freeServer;
-        priority_queue<t, vector<t>, greater<t>> busyServer;
+        int n = servers.size();
+        int m = tasks.size();
 
-        vector<int> result(tasks.size());
+        priority_queue<p, vector<p>, greater<p>> freeServers;
 
-        // Initially all servers are free
-        for (int i = 0; i < servers.size(); i++) {
-            freeServer.push({servers[i], i});
+        priority_queue<t, vector<t>, greater<t>> busyServers;
+
+        vector<int> result(m);
+
+        // Initially, all servers are free
+        for (int i = 0; i < n; i++) {
+            freeServers.push({servers[i], i});
         }
 
-        long long current_time = 0;
+        for (int i = 0; i < m; i++) {
 
-        for (int i = 0; i < tasks.size(); i++) {
+            while (!busyServers.empty() &&
+                   get<0>(busyServers.top()) <= i) {
 
-            current_time = max(current_time, (long long)i);
+                auto [finTime, wt, idx] = busyServers.top();
 
-            // Free all servers which have completed their tasks
-            while (!busyServer.empty() &&
-                   get<0>(busyServer.top()) <= current_time) {
+                busyServers.pop();
 
-                auto [finishTime, weight, index] = busyServer.top();
-                busyServer.pop();
-
-                freeServer.push({weight, index});
+                freeServers.push({wt, idx});
             }
+            if (freeServers.empty()) {
 
-            // If no server is free, jump to earliest finish time
-            if (freeServer.empty()) {
+                auto [finTime, wt, idx] = busyServers.top();
 
-                current_time = get<0>(busyServer.top());
-
-                // Free all servers that finish at this time
-                while (!busyServer.empty() &&
-                       get<0>(busyServer.top()) <= current_time) {
-
-                    auto [finishTime, weight, index] = busyServer.top();
-                    busyServer.pop();
-
-                    freeServer.push({weight, index});
-                }
+                busyServers.pop();
+                result[i] = idx;
+                busyServers.push({
+                    finTime + tasks[i],
+                    wt,
+                    idx
+                });
             }
+            else {
 
-            // Now at least one server is free
-            auto [weight, index] = freeServer.top();
-            freeServer.pop();
+                auto [wt, idx] = freeServers.top();
 
-            result[i] = index;
-
-            busyServer.push({
-                current_time + tasks[i],
-                weight,
-                index
-            });
+                freeServers.pop();
+                result[i] = idx;
+                busyServers.push({
+                    (long long)i + tasks[i],
+                    wt,
+                    idx
+                });
+            }
         }
 
         return result;
