@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1267-count-servers-that-communicate) |
 | [1603-design-parking-system](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1603-design-parking-system) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1975-maximum-matrix-sum) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -785,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
@@ -836,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codllm/Leetcode-solution-DSA-cpp-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
